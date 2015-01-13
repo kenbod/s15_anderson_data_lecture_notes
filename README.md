@@ -1,2 +1,5 @@
-# s15_anderson_data_lecture_notes
-Lecture notes for the Spring 2015 Seminar on Data Engineering at CU Boulder
+# Lecture Notes for Data Engineering in Spring 2015
+
+## Lecture 1
+
+Prof. Anderson is asking us to create a repo on GitHub and take notes in Markdown. I'm not sure how I feel about this.
